@@ -17,5 +17,5 @@ int main()
    fprintf(fptr,"%d",num);
    fclose(fptr);
 
-   return 0;
+   
 }
